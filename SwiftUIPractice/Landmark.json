@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Featured",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "turtlerock",
+        "favorite": false
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "silversalmoncreek",
+        "favorite": true
+    },
+    {
+        "name": "abc",
+        "category": "djafa",
+        "city": "Los Angeles",
+        "state": "Florida",
+        "id": 1003,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.665167,
+            "latitude": 59.952257
+        },
+        "imageName": "silversalmoncreek",
+        "favorite": true
+    },
+    {
+        "name": "afafaf",
+        "category": "faljffjalkfjl",
+        "city": "Colorado",
+        "state": "New Orland",
+        "id": 1004,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -154.665167,
+            "latitude": 59.952257
+        },
+        "imageName": "silversalmoncreek",
+        "favorite": false
+    }
+]
+
